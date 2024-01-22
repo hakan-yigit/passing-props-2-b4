@@ -1,0 +1,26 @@
+body {
+  margin: 1rem;
+  font-family: "Oxygen", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: #1d3557;
+}
+.text1 {
+  text-align: center;
+  line-height: 3em;
+  font-weight: bold;
+  color: #1d3557;
+  padding: 50px;
+}
+.footer {
+  display: flex;
+  justify-content: space-between;
+  color: grey;
+}
+.date {
+  color: #1d3557;
+  text-align: center;
+  font-weight: bold;
+}
